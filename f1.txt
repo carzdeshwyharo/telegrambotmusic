@@ -1,5 +1,1 @@
-Hotkey for commenting using the # symbol is:
-Ctrl + /
 
-Исчерпывающее руководство по множествам в Python
-https://habr.com/ru/companies/wunderfund/articles/693592/
